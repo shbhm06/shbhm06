@@ -38,13 +38,17 @@ UART transmitter/receiver module in Verilog.
 
 ## Tools & Technologies
 
-**Languages** — Verilog · SystemVerilog · Python · C/C++
+**Languages**
+<p><img src="https://img.shields.io/badge/Verilog-003366?style=for-the-badge" /> <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></p>
 
-**FPGA & EDA** — Vivado · Quartus Prime · ModelSim · KiCad · Proteus · NI Multisim · MATLAB
+**FPGA & EDA**
+<p><img src="https://img.shields.io/badge/Vivado-CC0000?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/Quartus%20Prime-6C4C9B?style=for-the-badge" /> <img src="https://img.shields.io/badge/ModelSim-1E5288?style=for-the-badge" /> <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" /> <img src="https://img.shields.io/badge/Proteus-00A651?style=for-the-badge" /> <img src="https://img.shields.io/badge/NI%20Multisim-004A98?style=for-the-badge" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /></p>
 
-**Libraries** — PyTorch · NumPy
+**Libraries**
+<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></p>
 
-**Other** — Git · Linux
+**Other**
+<p><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></p>
 
 <br>
 
