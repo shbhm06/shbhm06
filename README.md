@@ -28,13 +28,13 @@
 <td width="50%">
 
 **[ECG Arrhythmia Accelerator](https://github.com/shbhm06/ecg_accelerator_fpga)**
-FPGA-based ECG arrhythmia classifier targeting Zynq XC7Z020, based on the Loh et al. (ASAP 2020) paper. Full hardware-software co-design: DWT preprocessing → 4-block CNN → dense classifier, all in Verilog RTL with Q4.8 fixed-point quantization.
+FPGA-based ECG arrhythmia classifier targeting Zynq XC7Z020 (PYNQ-Z2), based on the Loh et al. (ASAP 2020) paper. Full hardware-software co-design: DWT preprocessing → 4-block CNN → dense classifier in Verilog RTL with Q4.8 fixed-point quantization, reaching 80% accuracy at 65 MHz via an AXI4-Stream wrapper.
 
 </td>
 <td width="50%">
 
-**[Parameterized FFT Audio Equalizer](https://github.com/shbhm06/fft_audio_equalizer)**
-Generic-N FFT-based audio equalizer (FFT → per-bin gain → IFFT) reusing a single FFT core for forward/inverse. Verified against a bit-accurate Python golden model with Q1.15 fixed-point RTL.
+**[FFT-Based Frequency-Domain Audio Equalizer (Ongoing)](https://github.com/shbhm06/fft_audio_equalizer)**
+Pipelined radix-2 FFT/IFFT core in Verilog performing frequency-domain audio equalization — applying configurable gain scaling to selected frequency bins before reconstructing the time-domain signal. Built with fixed-point butterfly units, a twiddle-factor ROM, and bit-reversal addressing, validated bit-accurately against a Python/NumPy golden model while quantifying SNR degradation across word lengths. Self-checking testbench verifies frequency-response accuracy and buffer management between FFT/IFFT stages.
 
 </td>
 </tr>
@@ -110,8 +110,8 @@ UART transmitter/receiver module implemented in Verilog.
 ### Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-shreekumar-521526272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubham.shreekumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>From <a href="https://github.com/shbhm06">shbhm06</a> — building hardware, one module at a time.</i></p>
