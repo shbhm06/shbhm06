@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Shubham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8892B0&center=true&vCenter=true&width=560&lines=FPGA+%2F+RTL+Design+Engineer;Hardware+Accelerator+Builder;ECG+%7C+Audio+DSP+%7C+CNN+on+Silicon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C792EA&center=true&vCenter=true&width=560&lines=FPGA+%2F+RTL+Design+Engineer;Hardware+Accelerator+Builder;ECG+%7C+Audio+DSP+%7C+CNN+on+Silicon" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shbhm06&style=flat-square&color=333333" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shbhm06?style=flat-square&color=333333&label=followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=shbhm06&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shbhm06?style=flat-square&color=blueviolet&label=followers" alt="Followers" />
 </p>
 
 <br>
@@ -59,8 +59,8 @@ UART transmitter/receiver module in Verilog.
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shbhm06&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333333&icon_color=555555&title_color=333333" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shbhm06&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333333&title_color=333333" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shbhm06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shbhm06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
